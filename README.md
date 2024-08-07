@@ -77,5 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to:
 - **Kapil Kashyap** - kapilkashyap3105@gmail.com
 ```
-
-This README provides a clear guide on accessing, installing, and using the project, along with an overview of the methodology and contributing guidelines. Make sure to replace placeholders (like `your-username` and `kapil@example.com`) with actual values.
