@@ -59,7 +59,6 @@ Based on the literature survey, our project will focus on:
 - **Virtual Strategy Engineer**: AI system for making race strategy decisions using historical race data.
 - **Rank Position Forecasting**: Predictive models for rank positions using deep learning.
 
-For more detailed insights, refer to the provided `fi race.pdf` document.
 
 ## Contributing
 If you wish to contribute to this project, please follow these steps:
